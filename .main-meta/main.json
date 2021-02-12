@@ -4,27 +4,27 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.avr128da48-getting-started-with-tcb-mplab-mcc",
-        "version": "",
-        "displayName": "",
+        "version": "1.0.0",
+        "displayName": "Getting Started with TCB",
         "projectName": "avr128da48-getting-started-with-tcb-mplab-mcc",
-        "shortDescription": "",
+        "shortDescription": "This repository contains the MCC generated source code examples described in TB3214-Getting Started with TCB",
         "ide": {
             "name": "MPLAB X",
-            "semverRange": ""
+            "semverRange": ">=5.40"
         },
         "compiler": [
 			{
 				"name": "XC8",
-				"semverRange": ""
+				"semverRange": "^2.30.0"
 			}
 		],
         "dfp": {
-            "name": "",
-            "semverRange": ""
+            "name": "AVR-DX_DFP",
+            "semverRange": "^1.4.75"
         },
         "configurator": {
-            "name": "",
-            "semverRange": ""
+            "name": "MCC",
+            "semverRange": ">=4.0.1"
         },
         "device": {
             "metaDataVersion": "1.0.0",
@@ -32,16 +32,18 @@
             "content": {
                 "metaDataVersion": "1.0.0",
                 "category": "com.microchip.device",
-                "name": "",
+                "name": "AVR128DA48",
                 "versionRange": "*"
             }
         },
-        "author": "",
+        "author": "Microchip",
         "subcategories": [
+          "Peripherals",
+          "TCB"
         ],
-        "peripherals": [
+        "peripherals": [ "TCB"
         ],
-        "keywords": [
+        "keywords": [ "Getting Started", "PWM"
         ],
 		"additionalData": {
 			"longDescription": {
