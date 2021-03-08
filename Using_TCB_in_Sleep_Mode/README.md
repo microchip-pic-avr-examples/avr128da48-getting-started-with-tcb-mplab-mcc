@@ -6,7 +6,7 @@ This program shows how to configure the Timer/Counter Type B (TCB) to operate in
 
 ## Related Documentation
 More details and code examples on the AVR128DA48 can be found at the following links:
-- [TB3214-Getting Started with Timer/Counter Type B (TCB)](https://ww1.microchip.com/downloads/en/Appnotes/TB3214-Getting-Started-with-TCB-90003214A.pdf)
+- [TB3214-Getting Started with Timer/Counter Type B (TCB)](https://ww1.microchip.com/downloads/en/Appnotes/TB3214-Getting-Started-with-TCB-DS90003214.pdf)
 - [AVR128DA48 Product Page](https://www.microchip.com/wwwproducts/en/AVR128DA48)
 - [AVR128DA48 Code Examples on GitHub](https://github.com/microchip-pic-avr-examples?q=avr128da48)
 - [AVR128DA48 Project Examples in START](https://start.atmel.com/#examples/AVR128DA48CuriosityNano)

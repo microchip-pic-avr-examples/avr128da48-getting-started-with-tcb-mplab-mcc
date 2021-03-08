@@ -2,7 +2,7 @@
 
 # Getting Started with Timer/Counter Type B (TCB) Examples (MPLAB® X)
 
-This repository contains examples of MCC-generated source code for Timer/Counter Type B (TCB), as described in [TB3214-Getting Started with Timer/Counter Type B (TCB)](https://ww1.microchip.com/downloads/en/Appnotes/TB3214-Getting-Started-with-TCB-90003214A.pdf) document from Microchip. The repository contains three MPLAB® X projects inside:
+This repository contains examples of MCC-generated source code for Timer/Counter Type B (TCB), as described in [TB3214-Getting Started with Timer/Counter Type B (TCB)](https://ww1.microchip.com/downloads/en/Appnotes/TB3214-Getting-Started-with-TCB-DS90003214.pdf) document from Microchip. The repository contains three MPLAB® X projects inside:
 
 * [<strong>Using TCB in 8-bit PWM Mode:</strong>](Using_TCB_in_8-bit_PWM_Mode) This use case shows how to configure the TCB to produce a PWM signal with a 1 second period (for more details, see [<strong>Using TCB in 8-bit PWM Mode</strong>](Using_TCB_in_8-bit_PWM_Mode)).
 * [<strong>Using TCB in Sleep Mode:</strong>](Using_TCB_in_Sleep_Mode) This use case shows how to configure the TCB to operate during sleep and periodically wake up the device and toggle an LED (for more details, see [<strong>Using TCB in Sleep Mode</strong>](Using_TCB_in_Sleep_Mode)).
@@ -10,7 +10,7 @@ This repository contains examples of MCC-generated source code for Timer/Counter
 
 ## Related Documentation
 More details and code examples on the AVR128DA48 can be found at the following links:
-- [TB3214-Getting Started with Timer/Counter Type B (TCB)](https://ww1.microchip.com/downloads/en/Appnotes/TB3214-Getting-Started-with-TCB-90003214A.pdf)
+- [TB3214-Getting Started with Timer/Counter Type B (TCB)](https://ww1.microchip.com/downloads/en/Appnotes/TB3214-Getting-Started-with-TCB-DS90003214.pdf)
 - [AVR128DA48 Product Page](https://www.microchip.com/wwwproducts/en/AVR128DA48)
 - [AVR128DA48 Code Examples on GitHub](https://github.com/microchip-pic-avr-examples?q=avr128da48)
 - [AVR128DA48 Project Examples in START](https://start.atmel.com/#examples/AVR128DA48CuriosityNano)
