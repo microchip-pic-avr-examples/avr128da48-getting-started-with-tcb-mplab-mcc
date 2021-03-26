@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.avr128da48-getting-started-with-tcb-mplab-mcc",
-        "version": "1.0.2",
+        "version": "1.0.3",
         "displayName": "Getting Started with Timer/Counter Type B (TCB)",
         "projectName": "avr128da48-getting-started-with-tcb-mplab-mcc",
         "shortDescription": "This repository contains the MCC generated source code examples described in TB3214-Getting Started with TCB",
