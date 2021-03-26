@@ -1,6 +1,6 @@
 [![MCHP](images/microchip.png)](https://www.microchip.com)
 
-# Getting Started with Timer/Counter Type B (TCB) Examples (MPLAB® X)
+# Getting Started with Timer/Counter Type B (TCB)
 
 This repository contains examples of MCC-generated source code for Timer/Counter Type B (TCB), as described in [TB3214-Getting Started with Timer/Counter Type B (TCB)](https://ww1.microchip.com/downloads/en/Appnotes/TB3214-Getting-Started-with-TCB-DS90003214.pdf) document from Microchip. The repository contains three MPLAB® X projects inside:
 
@@ -21,7 +21,7 @@ More details and code examples on the AVR128DA48 can be found at the following l
 - MPLAB® XC8 2.30 or a newer compiler [(microchip.com/mplab/compilers)](http://www.microchip.com/mplab/compilers)
 - MPLAB® Code Configurator (MCC) 4.0.1 or newer [(microchip.com/mplab/mplab-code-configurator)](https://www.microchip.com/mplab/mplab-code-configurator)
 - MPLAB® Code Configurator (MCC) Device Libraries 8-bit AVR MCUs 2.5.0 or newer [(microchip.com/mplab/mplab-code-configurator)](https://www.microchip.com/mplab/mplab-code-configurator)
-- AVR-Dx 1.4.75 or newer Device Pack
+- AVR-Dx 1.4.75 Device Pack or newer
 
 
 ## Hardware Used

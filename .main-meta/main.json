@@ -38,14 +38,17 @@
         },
         "author": "Microchip",
         "subcategories": [
-          [
-          "Peripherals",
-          "TCB"
-          ]
+			[
+			"Peripherals",
+			"TCB"
+			]
         ],
-        "peripherals": [ "TCB"
+        "peripherals": [ 
+		"TCB"
         ],
-        "keywords": [ "Getting Started"
+        "keywords": [
+		"Getting Started",
+		"Timers/Counters"
         ],
 		"additionalData": {
 			"longDescription": {
